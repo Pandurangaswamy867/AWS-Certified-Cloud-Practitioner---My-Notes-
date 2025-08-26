@@ -37,10 +37,7 @@
 
 ![AWS Shared Responsibility Model](https://github.com/Pandurangaswamy867/AWS-Certified-Cloud-Practitioner---My-Notes-/raw/main/img1.png)
 
-
-
-
-
+![EC2 Instance Types](https://github.com/Pandurangaswamy867/AWS-Certified-Cloud-Practitioner---My-Notes-/raw/main/img2.png)
 
 ## Amazon EC2 Instance Types
 
@@ -95,7 +92,7 @@ An *instance store* provides temporary block-level storage for your instance. 
 
 ### Dedicated host
 
-![Image3](./images/img3.png)
+![Dedicated Host](https://github.com/Pandurangaswamy867/AWS-Certified-Cloud-Practitioner---My-Notes-/raw/main/img3.png)
 
 - Isolation and Compliance
 - Instance Placement Control
@@ -153,10 +150,10 @@ An *instance store* provides temporary block-level storage for your instance. 
     - Used for scenarios where instances need to download patches, updates, etc., but should not be directly accessed from the internet.
     - Managed by AWS
 - **NAT Gateway vs NAT Instance**
-    ![Image4](./images/img4.png)
+    
+![NAT Gateway vs NAT Instance](https://github.com/Pandurangaswamy867/AWS-Certified-Cloud-Practitioner---My-Notes-/raw/main/img4.png)
 
     
-
 ## Subnets
 
 - A **private subnet** is a segment of an Amazon Virtual Private Cloud (VPC) that does not have direct internet access, making it suitable for hosting resources requiring enhanced security or internal communication within the VPC.
@@ -165,8 +162,7 @@ An *instance store* provides temporary block-level storage for your instance. 
 
 ## Security Groups vs Network ACLs (NACL)
 
-![Image5](./images/img5.png)
-
+![Security Groups vs NACL](https://github.com/Pandurangaswamy867/AWS-Certified-Cloud-Practitioner---My-Notes-/raw/main/img5.png)
 
 ## Security Group
 
@@ -211,9 +207,9 @@ An *instance store* provides temporary block-level storage for your instance. 
 
 ## AWS S3 Storage Classes
 
-![Image6](./images/img6.png)
+![S3 Storage Classes – Part 1](https://github.com/Pandurangaswamy867/AWS-Certified-Cloud-Practitioner---My-Notes-/raw/main/img6.png)
 
-![Image7](./images/img7.png)
+![S3 Storage Classes – Part 2](https://github.com/Pandurangaswamy867/AWS-Certified-Cloud-Practitioner---My-Notes-/raw/main/img7.png)
 
 
 **S3 Standard:**
