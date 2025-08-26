@@ -35,9 +35,11 @@
 
 ## AWS Shared Responsibility Model
 
-![Image1](./images/img1.png)
+![AWS Shared Responsibility Model](https://github.com/Pandurangaswamy867/AWS-Certified-Cloud-Practitioner---My-Notes-/raw/main/img1.png)
 
-![Image2](./images/img2.png)
+
+
+
 
 
 ## Amazon EC2 Instance Types
