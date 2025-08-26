@@ -279,7 +279,7 @@ An *instance store* provides temporary block-level storage for your instance. 
 
 ## Amazon S3 Policies
 
-![Image8](./images/img8.png)
+![Amazon S3 Policies ](https://github.com/Pandurangaswamy867/AWS-Certified-Cloud-Practitioner---My-Notes-/raw/main/img8.png)
 
 - **Action***: Specifies S3 operations that are allowed or denied (e.g. s3:PutObject, s3:GetObject).
 - **Effect***: Indicates the permission decision; usually takes the values "Allow" or "Deny".
@@ -486,9 +486,9 @@ IAM gives you the flexibility to configure access based on your company’s spec
 
 ## AWS Support Plans
 
-![Image9](./images/img9.png)
+![Description for Image 9](https://github.com/Pandurangaswamy867/AWS-Certified-Cloud-Practitioner---My-Notes-/raw/main/img9.png)
 
-![Image10](./images/img10.png)
+![Description for Image 10](https://github.com/Pandurangaswamy867/AWS-Certified-Cloud-Practitioner---My-Notes-/raw/main/img10.png)
 
 ### Basic Support
 
@@ -569,10 +569,9 @@ AWS Marketplace is a digital catalog that includes thousands of software listing
 
 ## AWS Cloud Adoption Framework (CAF)
 
-![Image11](./images/img11.png)
+![Description for Image 11](https://github.com/Pandurangaswamy867/AWS-Certified-Cloud-Practitioner---My-Notes-/raw/main/img11.png)
 
-![Image12](./images/img12.png)
-
+![Description for Image 12](https://github.com/Pandurangaswamy867/AWS-Certified-Cloud-Practitioner---My-Notes-/raw/main/img12.png)
 
 1. **Business Perspective:**
      - Purpose: Understand how business value is created and determine how cloud adoption contributes to the organization's business goals.
@@ -693,7 +692,7 @@ AWS Marketplace is a digital catalog that includes thousands of software listing
 
 ## **The AWS Well-Architected Framework**
 
-![Image13](./images/img13.png)
+![Description for Image 13](https://github.com/Pandurangaswamy867/AWS-Certified-Cloud-Practitioner---My-Notes-/raw/main/img13.png)
 
 ### Operational excellence
 
@@ -889,7 +888,8 @@ AWS Systems Manager helps you select and deploy operating system and software pa
 2. Greengrass enables devices to run Lambda functions locally, synchronize data, and securely communicate with each other.
 3. It also supports data storage and messaging capabilities locally to be able to analyze data collected from devices and send it back to the cloud
 
-![img14](./images/img14.png)
+![Description for Image 14](https://github.com/Pandurangaswamy867/AWS-Certified-Cloud-Practitioner---My-Notes-/raw/main/img14.png)
+
 
 ## AWS Partner Network (APN) Technology Partners
 
@@ -1106,7 +1106,7 @@ AWS customers are allowed to carry out security assessments and penetration test
 
 ## Service Types
 
-![img15](./images/img15.png)
+![Description for Image 15](https://github.com/Pandurangaswamy867/AWS-Certified-Cloud-Practitioner---My-Notes-/raw/main/img15.png)
 
 ### **IaaS (Infrastructure as a Service)**
 
